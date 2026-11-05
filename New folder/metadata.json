@@ -1,0 +1,6 @@
+{
+  "name": "SplitCraft - Shared Expense & Debt Splitter",
+  "description": "Production-grade shared expense splitter and debt settlement system featuring custom split modes, receipt itemization, min-cash-flow algorithm, group analytics, and multi-currency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
